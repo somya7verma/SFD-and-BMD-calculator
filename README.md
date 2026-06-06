@@ -103,7 +103,6 @@ SFD-and-BMD-calculator/
 ## 👩‍💻 Author
 
 **Somya Verma**  
-1st Year Engineering Student  
 GitHub: [@somya7verma](https://github.com/somya7verma)
 
 ---
